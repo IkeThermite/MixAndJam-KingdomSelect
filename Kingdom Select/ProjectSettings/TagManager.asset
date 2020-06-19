@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Icon Layer
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Icon Layer
+    uniqueID: 3875605569
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
